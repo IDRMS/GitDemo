@@ -13,8 +13,6 @@
        <name>CustomObject</name>
     </types> 
      <types>
-        <members>Contact.isGit__c</members>
-        <members>Contact.isGit2__c</members>
         <members>Contact.isGit4__c</members>
        <name>CustomField</name>
     </types> 
