@@ -11,15 +11,14 @@
      <types>
         <members>Contact</members>
        <name>CustomObject</name>
-    </types>
+    </types> 
+     <types>
+        <members>Contact.isGit4__c</members>
+       <name>CustomField</name>
+    </types> 
      <types>
         <members>DemoProfile</members>
        <name>Profile</name>
     </types> 
-     <types>
-        <members>Contact.isGit__c</members>
-        <members>Contact.isGit2__c</members>
-       <name>CustomField</name>
-     </types>
     <version>64.0</version>
 </Package>
