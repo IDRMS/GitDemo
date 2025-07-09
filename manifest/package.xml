@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <!--<types>
+    <types>
         <members>*</members>
         <name>ApexClass</name>
     </types>
@@ -16,7 +16,6 @@
         <members>DemoProfile</members>
        <name>Profile</name>
     </types> 
-     !-->
      <types>
         <members>Contact.isGit__c</members>
         <members>Contact.isGit2__c</members>
