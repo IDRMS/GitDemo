@@ -17,7 +17,6 @@
        <name>Profile</name>
     </types> 
      <types>
-        
         <members>Contact.isGit__c</members>
         <members>Contact.isGit2__c</members>
        <name>CustomField</name>
